@@ -1,6 +1,7 @@
-# Godot demo projects
+BAM
 
-Each folder containing a `project.godot` file is a demo project meant to
+Each folder containing a 
+file is a demo project meant to
 be used with [Godot Engine](https://godotengine.org), the open source
 2D and 3D game engine.
 
